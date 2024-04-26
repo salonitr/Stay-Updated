@@ -1,0 +1,10 @@
+body{
+    margin: 100px !important;
+    padding: 50px !important;
+    background-color: darkslateblue !important;
+}
+
+button{
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+}
